@@ -1,2 +1,2 @@
 # SQL-data-cleaning-
-This project is made by me in MS SQL SERVER in this project i do data cleaning in SQL
+Worked on a data cleaning project for the Nashville Housing Society dataset using Microsoft SQL Server. The project involved standardizing date formats, handling missing property address data, breaking addresses into individual components (Address, City, State), converting 'Y' and 'N' values to 'Yes' and 'No', removing duplicate records, and deleting unused columns. SQL techniques such as ALTER TABLE, UPDATE, SELECT, JOIN, and DELETE were employed to ensure clean, structured data suitable for further analysis.
